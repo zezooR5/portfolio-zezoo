@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <rect width="256" height="256" fill="#1e1e1e" rx="20"/>
+  <g transform="translate(128, 100)">
+    <polygon points="0,-50 58,25 -58,25" fill="none" stroke="#e44d26" stroke-width="8"/>
+    <text x="0" y="10" font-family="monospace" font-size="32" fill="#e44d26" text-anchor="middle" font-weight="bold">5</text>
+  </g>
+  <text x="128" y="200" font-family="Arial, sans-serif" font-size="20" fill="#00a8ff" text-anchor="middle" font-weight="bold">HTML/CSS</text>
+</svg>
